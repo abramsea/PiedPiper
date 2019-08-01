@@ -59,7 +59,6 @@ a {
 
 .main_welcome {
     background: url(../img/Jumbotron.png) no-repeat;
-    background-size: 100%;
     text-align: center;
 }
 
@@ -89,7 +88,6 @@ a {
 .article {
     font-size: 32px;
     text-align: justify;
-    padding: 10px;
 }
 
 
@@ -98,7 +96,6 @@ a {
 
 .main_hero {
     background: url(../img/Hero.png) no-repeat;
-    background-size: 100%;
 }
 
 .italic_article {
@@ -128,8 +125,7 @@ a {
 }
 
 .team_card {
-    width: 350px;
-    height: 283px;
+    margin: 20px 60px;
     display: inline-block;
 }
 
@@ -166,3 +162,8 @@ a {
 .footer_text {
     padding: 50px 340px;
 }
+
+
+
+
+@media screen and (max-width: )
